@@ -1263,27 +1263,27 @@ const struct MonCoords gMonBackPicCoords[] =
     [SPECIES_TREECKO] =
     {
         .size = 0x87, //76
-        .y_offset = 8,
+        .y_offset = 0, //8
     },
     [SPECIES_GROVYLE] =
     {
         .size = 0x87,
-        .y_offset = 7,
+        .y_offset = 0, //7
     },
     [SPECIES_SCEPTILE] =
     {
         .size = 0x88,
-        .y_offset = 6,
+        .y_offset = 0, //6
     },
     [SPECIES_TORCHIC] =
     {
         .size = 0x56,
-        .y_offset = 10,
+        .y_offset = 0, //10
     },
     [SPECIES_COMBUSKEN] =
     {
         .size = 0x88,
-        .y_offset = 1,
+        .y_offset = 0, //1
     },
     [SPECIES_BLAZIKEN] =
     {
